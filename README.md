@@ -114,3 +114,6 @@ Explain how to use the project, including examples if applicable.
    - Interactive dashboards or large datasets may cause performance bottlenecks in the runtime environment.    
 By recognizing these limitations, users and contributors can better interpret the results and work towards improving the project's scope and accuracy in future iterations.
 ---
+
+Overall
+I was learning python , malmatplotlib library in this semester , and i am looking to be good at data analysis in my future job. 
