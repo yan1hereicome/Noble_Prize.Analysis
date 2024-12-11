@@ -1,6 +1,6 @@
 # Noble_Prize.Analysis
 
-##***Project Ojective***
+##**Project Ojective**
 ```markdown
 1.To examine patterns in the awarding of Nobel Prizes across various categories and observe trends over time.  
 2.To analyze the demographic characteristics of Nobel Prize recipients, considering aspects such as age, gender, and nationality.  
@@ -8,7 +8,7 @@
 4.To reveal the influence of historical events on the distribution and frequency of Nobel Prizes across specific categories.  
 5.To apply data visualization methods to clearly present insights and trends extracted from the Nobel Prize dataset.
 ```
-##Requirements for executing file 
+##**Requirements for executing file **
 ```markdown
 1.Google Colab Account: Ensure access to a Google account to utilize the Colab environment for coding and analysis.
 2.Python Libraries: Install essential libraries such as pandas for data manipulation, numpy for numerical operations, and matplotlib or seaborn for data visualization.
@@ -17,7 +17,7 @@
 Execution Resources: Confirm that Colab’s runtime is set to Python 3 and install any additional packages not pre-installed in Colab, such as plotly for interactive graphs if required.
 ```
 
-##How to execut file
+##**How to execut file**
 ```markdown
 1.Open Google Colab:
 2.Log in to your Google account and navigate to Google Colab.
@@ -31,7 +31,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-### **5.Features**
+### **Features**
 - Analyze trends in Nobel Prize awards across categories.
 - Visualize demographic patterns of laureates by age, gender, and nationality.
 - Explore the influence of institutions on Nobel Prize outcomes.
@@ -43,7 +43,7 @@ drive.mount('/content/drive')
 
 ---
 
-### **6. Usage**
+### ** Usage**
 Explain how to use the project, including examples if applicable.
 
 ```markdown
