@@ -31,7 +31,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-### **Features**
+##**Features**
 - Analyze trends in Nobel Prize awards across categories.
 - Visualize demographic patterns of laureates by age, gender, and nationality.
 - Explore the influence of institutions on Nobel Prize outcomes.
@@ -43,7 +43,7 @@ drive.mount('/content/drive')
 
 ---
 
-### ** Usage**
+## ** Usage**
 Explain how to use the project, including examples if applicable.
 
 ```markdown
