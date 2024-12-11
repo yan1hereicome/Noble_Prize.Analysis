@@ -117,4 +117,4 @@ By recognizing these limitations, users and contributors can better interpret th
 ---
 
 Overall
-This semester, I studied Python and the Malmatplotlib module, and I want to be proficient in data analysis for my future career. 
+This semester, I studied Python and the matplotlib library, and I want to be proficient in data analysis for my future career. 
