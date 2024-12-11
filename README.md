@@ -1,6 +1,6 @@
 # Noble_Prize.Analysis
 
-Project Ojective
+###Project Ojective
 1.To examine patterns in the awarding of Nobel Prizes across various categories and observe trends over time.  
 2.To analyze the demographic characteristics of Nobel Prize recipients, considering aspects such as age, gender, and nationality.  
 3.To investigate the connection between academic institutions and Nobel winners, pinpointing key contributing organizations.  
