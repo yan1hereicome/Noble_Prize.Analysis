@@ -24,6 +24,10 @@ Execution Resources: Confirm that Colab’s runtime is set to Python 3 and insta
 4.Load the Dataset:
 If the dataset is stored on your local machine, upload it directly into the Colab environment using the file upload option.
 Alternatively, if the dataset is stored on Google Drive, use the following code snippet to mount your Google Drive:
+```python
 from google.colab import drive
 drive.mount('/content/drive')
 Ensure the file path in the code points to the dataset location.
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
