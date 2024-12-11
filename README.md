@@ -37,4 +37,25 @@ drive.mount('/content/drive')
 - Explore the influence of institutions on Nobel Prize outcomes.
 - Identify historical events impacting the awards.
 
+```python 
+# %pip install --upgrade plotly
+```
 
+---
+
+### **6. Usage**
+Explain how to use the project, including examples if applicable.
+
+```markdown
+## Usage
+- Load the Nobel Prize dataset into the project.
+- Execute the analysis scripts to generate visualizations and summaries.
+- Example:
+   ```python
+   # Load dataset
+   data = pd.read_csv('nobel_prize_data.csv')
+
+   # Display first few rows
+   print(data.head())
+```
+```
