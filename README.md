@@ -52,6 +52,7 @@ Explain how to use the project, including examples if applicable.
 - Load the Nobel Prize dataset into the project.
 - Execute the analysis scripts to generate visualizations and summaries.
 - Example:
+```
    ```python
    # Load dataset
    data = pd.read_csv('nobel_prize_data.csv')
